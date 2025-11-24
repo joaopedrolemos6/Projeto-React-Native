@@ -46,6 +46,16 @@ O projeto conta com autenticação segura via JWT, persistência de dados com SQ
 
 ---
 
+## 💡 Como Usar o App
+
+* **Primeiro Acesso:** Para entrar, clique em **"Criar uma conta gratuita"** para registrar seu usuário. Depois, faça o **login** com as credenciais criadas.
+* **Navegação:** Para acessar a aba de registros e outras opções do menu, basta **arrastar a tela para o lado** ou clicar no ícone das **3 faixas** no canto superior esquerdo.
+* **Gerenciamento:**
+    * **Deletar:** Para excluir um item, basta **clicar na lixeira** ao lado da movimentação.
+    * **Filtrar:** Para ver as movimentações de uma data específica, **clique no calendário** e selecione o dia desejado.
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Mobile (Frontend)
